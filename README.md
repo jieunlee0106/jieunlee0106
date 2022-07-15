@@ -7,6 +7,6 @@
 :grin:  
 
 
-## 다음주도 화이팅~!:fire::fire::fgit:
+## 다음주도 화이팅~!:fire::fire::fire:
 
 
