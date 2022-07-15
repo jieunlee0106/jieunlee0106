@@ -1,4 +1,4 @@
-# 안녕하세요~! :"\U0001f609": 
+# 안녕하세요~! :grinning:
 ## :star::star::star:lee jieun 님의 페이지 입니다:star::star::star:
 **오늘 하루도 수고했습니다.**  
 *오늘은 git 을 배웠어요*  
