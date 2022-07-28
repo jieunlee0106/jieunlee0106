@@ -15,5 +15,5 @@
 <img src="https://img.shields.io/badge/photoshop-색상코드?style=flat-square&logo=#31A8FF&logoColor=로고색"/>
 
 :fire: Studying :fire:  
-<img src="https://img.shields.io/badge/Python-색상코드?style=flat-square&logo=#3776AB&logoColor=3065AC"/>
+<img src="https://img.shields.io/badge/Python-색상코드?style=flat-square&logo=#3776AB&logoColor=#1565C0"/>
 
