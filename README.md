@@ -10,3 +10,10 @@
 ## 다음주도 화이팅~!:fire::fire::fire:
 
 
+<img src="https://img.shields.io/badge/Literoom-색상코드?style=flat-square&logo=#31A8FF&logoColor=로고색"/>
+<img src="https://img.shields.io/badge/Premiere Pro-색상코드?style=flat-square&logo=#9999FF&logoColor=로고색"/>
+<img src="https://img.shields.io/badge/photoshop-색상코드?style=flat-square&logo=#31A8FF&logoColor=로고색"/>
+
+:fire: Studying :fire:
+<img src="https://img.shields.io/badge/Python-색상코드?style=flat-square&logo=#3776AB&logoColor=로고색"/>
+
