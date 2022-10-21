@@ -10,9 +10,6 @@
 
 
 
-- I recently studying ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)
-
-
 
 ***
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=jjong06)](https://solved.ac/jjong06)
