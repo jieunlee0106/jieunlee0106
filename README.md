@@ -17,11 +17,8 @@
 ***
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=jjong06)](https://solved.ac/jjong06)
  <img src="http://mazandi.herokuapp.com/api?handle=jjong06&theme=warm"/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=
-jieunlee0106&layout=compact)](https://github.com/
-jieunlee0106/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jieunlee0106&layout=compact)](https://github.com/jieunlee0106/github-readme-stats)
 [![jieunlee0106's GitHub stats](https://github-readme-stats.vercel.app/api?username=jieunlee0106)](https://github.com/jieunlee0106/github-readme-stats) 
-
       
 ***
 ## 🍊Tech Stack
