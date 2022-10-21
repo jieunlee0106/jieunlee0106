@@ -1,6 +1,3 @@
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={jjong06})](https://solved.ac/{jjong06})
-
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=100&section=header&text=❤JiEun❤&fontSize=70&animation=scaleIn)
 
 #### Hello
