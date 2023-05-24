@@ -29,10 +29,10 @@
 
 # SKILLS
 
-- ##Application## : Dart, Flutter
-- Backend Pyhton, Django , Java, SpringBoot, JPA, Seurity, MySQL, Redis, AWS S3
-- Frontend : JavaScript , Vue HTML, CSS, BootStrap, tailwind
-- Infra : AWS EC2, Docker, Jenkins, Nginx , Ubuntu
-- others : Git, G tHub&GitLab, Jira, MatterMost
+- **Application** : Dart, Flutter
+- **Backend** : Pyhton, Django , Java, SpringBoot, JPA, Seurity, MySQL, Redis, AWS S3
+- **Frontend** : JavaScript , Vue HTML, CSS, BootStrap, tailwind
+- **Infra** : AWS EC2, Docker, Jenkins, Nginx , Ubuntu
+- **others** : Git, G tHub&GitLab, Jira, MatterMost
 
 ---
