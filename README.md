@@ -30,20 +30,16 @@
 # SKILLS
 
 ### **Backend**
-
-### **Frontend**
-
-### **Tools**
-
 - Pyhton, Django
 - Java, SpringBoot, JPA, Seurity, JWT
 - MySQL, Redis, AWS S3
 
+### **Frontend**
 - Dart, Flutter
 - JavaScript , Vue.Js
 - HTML, CSS, BootStrap, tailwind
-- Dart, Flutter
 
+### **Tools**
 - Git, GitHub, GitLab
 - Notion, Jira
 - swagger, Postman
