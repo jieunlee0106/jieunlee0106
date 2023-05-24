@@ -7,12 +7,7 @@
 
 ## Algorithm 
 - SW 역량테스트 모의 A형 (삼성 청년 SW 아카데미 응시)
-***
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jieunlee0106&layout=compact)](https://github.com/jieunlee0106/github-readme-stats)
-[![jieunlee0106's GitHub stats](https://github-readme-stats.vercel.app/api?username=jieunlee0106)](https://github.com/jieunlee0106/github-readme-stats) 
-      
-***
   ---
 
 ## SKILLS
@@ -24,6 +19,14 @@
 - **others** : Git, G tHub&GitLab, Jira, MatterMost
 
 ---
+
+***
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jieunlee0106&layout=compact)](https://github.com/jieunlee0106/github-readme-stats)
+[![jieunlee0106's GitHub stats](https://github-readme-stats.vercel.app/api?username=jieunlee0106)](https://github.com/jieunlee0106/github-readme-stats) 
+      
+***
+
 
   <div key="6">
     <a href = "https://oreuda.kr/">
