@@ -29,20 +29,10 @@
 
 # SKILLS
 
-### **Backend**
-- Pyhton, Django
-- Java, SpringBoot, JPA, Seurity, JWT
-- MySQL, Redis, AWS S3
-
-### **Frontend**
-- Dart, Flutter
-- JavaScript , Vue.Js
-- HTML, CSS, BootStrap, tailwind
-
-### **Tools**
-- Git, GitHub, GitLab
-- Notion, Jira
-- swagger, Postman
-- AWS EC2, Docker, Jenkins, Nginx
+ㆍ Application : Dart, Flutter
+ㆍ Backend Pyhton, Django , Java, SpringBoot, JPA, Seurity, MySQL, Redis, AWS S3
+ㆍ Frontend : JavaScript , Vue HTML, CSS, BootStrap, tailwind
+ㆍ Infra : AWS EC2, Docker, Jenkins, Nginx , Ubuntu
+ㆍ others : Git, G tHub&GitLab, Jira, MatterMost
 
 ---
