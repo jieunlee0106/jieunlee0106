@@ -4,9 +4,6 @@
 
 - `SSAFY` 8th.
 
-## Algorithm 
-- SW 역량테스트 모의 A형 (삼성 청년 SW 아카데미 응시)
-
   ---
 
 ## SKILLS
