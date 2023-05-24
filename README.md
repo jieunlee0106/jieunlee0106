@@ -24,3 +24,29 @@
       />
     </a>
   </div>
+  
+  ---
+
+# SKILLS
+
+### **Backend**
+
+### **Frontend**
+
+### **Tools**
+
+- Pyhton, Django
+- Java, SpringBoot, JPA, Seurity, JWT
+- MySQL, Redis, AWS S3
+
+- Dart, Flutter
+- JavaScript , Vue.Js
+- HTML, CSS, BootStrap, tailwind
+- Dart, Flutter
+
+- Git, GitHub, GitLab
+- Notion, Jira
+- swagger, Postman
+- AWS EC2, Docker, Jenkins, Nginx
+
+---
