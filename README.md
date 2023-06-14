@@ -2,7 +2,7 @@
 
 ### Hello
 
-- `SSAFY` 8th.
+- `SSAFY` 8th
 
   ---
 
