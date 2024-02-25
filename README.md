@@ -3,15 +3,15 @@
 ### Hello
 
 - `SSAFY` 8th
-
+- SF
   ---
 
 ## SKILLS   
 
-- **Application** : Dart, Flutter
-- **Backend** : Pyhton, Django , Java, SpringBoot, JPA, Seurity, MySQL, Redis, AWS S3
-- **Frontend** : JavaScript , Vue HTML, CSS, BootStrap, tailwind
+- **Backend** : Java, Spring, C#, .NET, Pyhton, Django
+- **Frontend** : JavaScript , Vue, HTML, CSS
 - **Infra** : AWS EC2, Docker, Jenkins, Nginx , Ubuntu
+- - **Application** : Dart, Flutter
 - **others** : Git, G tHub&GitLab, Jira, MatterMost
 
 ---
@@ -21,15 +21,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jieunlee0106&layout=compact)]
 
 
-  <div key="4">
-    <a href = "https://oreuda.kr/">
-      <img
-        src=https://oreuda.kr/api/v1/plant/card?nickname=jieunlee0106
-        alt="oreuda"
-      />
-    </a>
-  </div>
-      
 ***
 
 
